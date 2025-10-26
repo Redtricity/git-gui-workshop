@@ -50,5 +50,3 @@ Now we’ll all edit the same file to see how merge conflicts work visually.
 ---
 
 ✨ That’s it! You’ve just practiced the full Git workflow using **only visual tools** — the same way professionals use GitHub every day.
-
-✨ That’s it! You’ve just practiced the same workflow used by real developers every day.
